@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Signup_Ads>
+            <version>0.1.0</version>
+        </Signup_Ads>
+    </modules>
+    <frontend>
+        <routers>
+            <ads>
+                <use>standard</use>
+                <args>
+                    <module>Signup_Ads</module>
+                    <frontName>ads</frontName>
+                </args>
+            </ads>
+        </routers>
+    </frontend>
+</config>
