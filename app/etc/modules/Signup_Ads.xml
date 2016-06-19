@@ -1,0 +1,14 @@
+<!--
+Author: Greg London
+http://greglondon.info
+-->
+
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Signup_Ads>
+        <active>true</active>
+        <codePool>local</codePool>
+        </Signup_Ads>
+    </modules>
+</config>
